@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+  --mainColor: #a82d49;
+  
+  }
+.Navbar{
+  color: white;
+  margin-bottom: 20px;
+
+}
+nav{
+    width: 100%;
+    height: auto;
+
+
+}
+nav a{
+    color:var(--mainColor) !important ;
+    font-size: 15px;
+    font-weight: bold;
+}
+.img_Navbar{
+    max-width: 80%;
+    height: 80%;
+  }
+  .navbar-collapse{
+    justify-content:end!important ;
+  }
+  .link_Navbar{
+    background-color:var(--mainColor) !important;
+    color: white !important;
+    border: 2px solid var(--mainColor) !important;
+   
+  }
+  .link_Navbar:hover{
+    background-color: white !important;
+    color: var(--mainColor) !important;
+  }

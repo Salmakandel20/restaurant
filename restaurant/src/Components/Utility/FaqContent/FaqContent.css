@@ -1,0 +1,21 @@
+.ColSpan{
+    color: #f98169;
+    font-size: 28px;
+    font-weight: 300;
+    vertical-align: middle;
+}
+h4{
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+}
+
+
+
+p {
+    font-size: 16px;
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;}

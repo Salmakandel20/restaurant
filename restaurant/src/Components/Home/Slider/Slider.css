@@ -1,0 +1,51 @@
+.SliderImg{
+    width: 60px;
+    border-radius: 50%;
+    margin: 20px 0px ;
+    margin-bottom: 150px;
+    text-align: center;
+    
+    
+}
+.SliderContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.SliderContainer{
+    background-color: white;
+    border-radius: 15px;
+    margin: 40px 0px;
+}
+.SliderCaption{
+    background-color: #fbf3f5;
+    /* margin-top: 20px; */
+    text-align: center;
+    padding: 25px 0px;
+
+}
+.SliderCaption>p{
+    color: #111;
+    width: auto;
+    padding: 0px 5px;
+}
+.SliderCaption>span{
+    color: #a82d49;
+    font-weight: bold;
+}
+.SliderContainer.carousel-indicators {
+
+    bottom: -28px;
+    color: #a82d49;
+
+
+}
+.SliderContainer.carousel-indicators button{
+
+        width: 15px;
+        border-radius: 50%;
+        background-color: #a82d49;
+        margin: 20px 10px;
+        height: 15px;
+
+    }

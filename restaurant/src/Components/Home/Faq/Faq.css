@@ -1,0 +1,10 @@
+.Content>h3{
+    color: #43121d;
+    margin-bottom: 15px;
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+}
+.Content{
+    padding: 50px 0px !important;
+}

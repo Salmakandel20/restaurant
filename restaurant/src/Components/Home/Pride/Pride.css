@@ -1,0 +1,42 @@
+.pride{
+    margin-bottom: 50px;
+    height: auto;
+    padding: 35px 0px;
+    max-width: 100%;
+    background-color: transparent;
+}
+.imgPride{
+    width: 100%;
+    border-radius: 10px;
+}
+.pride p{
+    margin: 15px 0px; 
+}
+.pride h2{
+    width: 80%;
+    padding-top: 40px;
+
+}
+
+.pride button{
+
+width: 150px;
+margin-right: 10px;
+font-weight: 400;
+padding: 5px 28px;
+font-size: 14px;
+outline: none;
+border:3px solid var(--mainColor);
+background-color: var(--mainColor);
+color:white;
+}
+.pride button:hover{
+    background-color: white;
+    color: var(--mainColor);
+    transition: .4s;
+    /* border:3px solid var(--mainColor); */
+
+}
+  
+    
+

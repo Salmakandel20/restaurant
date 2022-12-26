@@ -1,0 +1,17 @@
+.content-div{
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.DivContent{
+    background-color:  #a82d49;
+    padding: 30px 40px ;
+}
+@media (max-width:950px) {
+    .content-div{
+        margin: 20px 0px;
+    }
+    
+}

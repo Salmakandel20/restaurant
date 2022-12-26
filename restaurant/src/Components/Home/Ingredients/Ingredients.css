@@ -1,0 +1,58 @@
+.Ingredients{
+    margin-bottom: 50px;
+    height: auto;
+    padding: 35px 0px;
+    max-width: 100%;
+    background-color: transparent;
+    overflow: hidden;
+}
+.imgIngredients{
+    width: 100%;
+    border-radius: 10px;
+}
+.Ingredients p{
+    margin: 15px 0px; 
+}
+.Ingredients h2{
+    width: 80%;
+    padding-top: 40px;
+
+}
+.Ingredients ul{
+    margin:20px 0px;
+    list-style: none;
+}
+.Ingredients ul li{
+    margin: 7px 0px;
+    position: relative;
+}
+.Ingredients ul li i{
+    min-width: 30px;
+    color: #a82d49;
+    position: absolute;
+    left: 0;
+    top: 4px;
+    font-size: 25px;
+}
+.Ingredients button{
+
+width: 150px;
+margin-top: 10px;
+font-weight: 400;
+padding: 5px 28px;
+font-size: 14px;
+outline: none;
+border:3px solid var(--mainColor);
+background-color: var(--mainColor);
+color:white;
+}
+.Ingredients button:hover{
+    background-color: white;
+    color: var(--mainColor);
+    transition: .4s;
+    /* border:3px solid var(--mainColor); */
+
+}
+  
+    
+

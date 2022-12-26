@@ -1,0 +1,75 @@
+.Blog{
+   
+    max-width: 100%;
+    height: auto;
+    padding: 30px 0px;
+    margin-top:50px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.Blog p{
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    font-size: 16px;
+    padding: 0 15%;
+
+}
+.blogP{
+  margin: 0px;  
+  padding: 0px !important;
+  line-height: 0px;
+}
+.Blog span{
+    color: #a82d49 !important;
+font-weight: bold;
+}
+.Blog h3{
+    width: 100%;
+    color: #43121d;
+    margin-bottom: 15px;
+    line-height: 26px;
+    font-weight: bold;
+    padding: 20px 0px;
+    padding-bottom: 10px;
+}
+
+.Blog button{
+
+width: 140px;
+margin-bottom: 10px;
+margin-top: 8px;
+font-weight: bold;
+padding: 5px 0px;
+font-size: 14px;
+outline: none;
+border:3px solid var(--mainColor);
+background-color: var(--mainColor);
+}
+.Blog button>a{
+    color: white;
+}
+.Blog button:hover {
+    background-color: white;
+    transition: .4s;
+    /* border:3px solid var(--mainColor); */
+
+}
+.Blog button:hover >a {
+    color: #a82d49;
+}
+.Blog del{
+    color: #999999;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card-body{
+    text-align: left;
+    padding: 6px !important;
+    border-bottom: 1px solid #333;
+    height: auto;
+    margin-bottom: 7px;
+}
